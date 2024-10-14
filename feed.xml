@@ -3,7 +3,7 @@
     <title>segwrites</title>
     <link href="https://segwrites.github.io/segwrites/feed.xml" rel="self" />
     <link href="https://segwrites.github.io/segwrites" />
-    <updated>2024-10-14T14:31:45-07:00</updated>
+    <updated>2024-10-14T16:10:07-07:00</updated>
     <author>
         <name>Sara Eatherton-Goff</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Sara Eatherton-Goff</name>
         </author>
-        <link href="https://segwrites.github.io/segwrites/p/planner/"/>
-        <id>https://segwrites.github.io/segwrites/p/planner/</id>
+        <link href="https://segwrites.github.io/segwrites/project/planner/"/>
+        <id>https://segwrites.github.io/segwrites/project/planner/</id>
         <media:content url="https://segwrites.github.io/segwrites/media/posts/7/p-Planner.png" medium="image" />
             <category term="project"/>
 
@@ -99,8 +99,8 @@
         <author>
             <name>Sara Eatherton-Goff</name>
         </author>
-        <link href="https://segwrites.github.io/segwrites/p/newsletter/"/>
-        <id>https://segwrites.github.io/segwrites/p/newsletter/</id>
+        <link href="https://segwrites.github.io/segwrites/project/newsletter/"/>
+        <id>https://segwrites.github.io/segwrites/project/newsletter/</id>
         <media:content url="https://segwrites.github.io/segwrites/media/posts/6/Newsletter-Workspace.png" medium="image" />
             <category term="project"/>
 
@@ -115,7 +115,7 @@
             <![CDATA[
                     <p><img src="https://segwrites.github.io/segwrites/media/posts/6/Newsletter-Workspace.png" class="type:primaryImage" alt="Sara Eatherton-Goff&#x27;s newsletter" /></p>
                 <h1>Musings, updates, and recommendations, delivered sporadically.</h1>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://segwrites.github.io/segwrites/media/posts/6/Newsletter-Workspace-Image.png" alt="Sara Eatherton-Goff's workspace with newsletter project" width="4032" height="3024" sizes="(min-width: 37.5em) 1600px, 88vw" srcset="https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-xs.png 640w ,https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-sm.png 768w ,https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-md.png 1024w ,https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-lg.png 1366w ,https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-xl.png 1600w"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://segwrites.github.io/segwrites/media/posts/6/Newsletter-Workspace-Image-2.png" alt="" width="4032" height="3024" sizes="(min-width: 37.5em) 1600px, 88vw" srcset="https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-2-xs.png 640w ,https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-2-sm.png 768w ,https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-2-md.png 1024w ,https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-2-lg.png 1366w ,https://segwrites.github.io/segwrites/media/posts/6/responsive/Newsletter-Workspace-Image-2-xl.png 1600w"></figure>
 <h4>I explore topics on relationships, identity, neurodivergence, chronic illness, motherhood, life in Seattle, and much more.</h4>
 <p>Each message is crafted with care, and with the advocacy for neurodivergent and/or chronically ill communities in mind. I also write for the benefit of family members and friends of those individuals, and for those who want to better understand the unique lives of "differently wired" and disabled people we all share a world with. </p>
 <p><strong>I share stories that may not be mainstream yet, but ones that still matter. Stories that, without more voices speaking to them, society misses out.</strong></p>
@@ -157,8 +157,8 @@
         <author>
             <name>Sara Eatherton-Goff</name>
         </author>
-        <link href="https://segwrites.github.io/segwrites/p/stories/"/>
-        <id>https://segwrites.github.io/segwrites/p/stories/</id>
+        <link href="https://segwrites.github.io/segwrites/project/stories/"/>
+        <id>https://segwrites.github.io/segwrites/project/stories/</id>
         <media:content url="https://segwrites.github.io/segwrites/media/posts/4/p-Stories.png" medium="image" />
             <category term="project"/>
 
@@ -208,8 +208,8 @@
         <author>
             <name>Sara Eatherton-Goff</name>
         </author>
-        <link href="https://segwrites.github.io/segwrites/p/this-is-a-test/"/>
-        <id>https://segwrites.github.io/segwrites/p/this-is-a-test/</id>
+        <link href="https://segwrites.github.io/segwrites/project/this-is-a-test/"/>
+        <id>https://segwrites.github.io/segwrites/project/this-is-a-test/</id>
 
         <updated>2024-09-10T11:53:11-07:00</updated>
             <summary>
