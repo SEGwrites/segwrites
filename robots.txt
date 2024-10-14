@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://segwrites.github.io/segwrites/sitemap.xml
