@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://segwrites.github.io/segwrites/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://segwrites.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://segwrites.github.io/segwrites/</loc>
+<loc>https://segwrites.com/</loc>
 </url>
 <url>
-<loc>https://segwrites.github.io/segwrites/project/about/</loc>
+<loc>https://segwrites.com/project/about/</loc>
 </url>
 <url>
-<loc>https://segwrites.github.io/segwrites/project/images/</loc>
+<loc>https://segwrites.com/project/images/</loc>
 </url>
 <url>
-<loc>https://segwrites.github.io/segwrites/project/newsletter/</loc>
+<loc>https://segwrites.com/project/newsletter/</loc>
 </url>
 <url>
-<loc>https://segwrites.github.io/segwrites/project/planner/</loc>
+<loc>https://segwrites.com/project/planner/</loc>
 </url>
 <url>
-<loc>https://segwrites.github.io/segwrites/project/stories/</loc>
+<loc>https://segwrites.com/project/stories/</loc>
 </url>
 <url>
-<loc>https://segwrites.github.io/segwrites/project/this-is-a-test/</loc>
+<loc>https://segwrites.com/project/this-is-a-test/</loc>
 </url>
 <url>
-<loc>https://segwrites.github.io/segwrites/about-2/</loc>
+<loc>https://segwrites.com/about-2/</loc>
 <lastmod>2024-10-16T16:57:54-07:00</lastmod>
 <image:image>
-<image:loc>https://segwrites.github.io/segwrites/media/posts/8/Sara-About-Page-Image-2.png</image:loc>
+<image:loc>https://segwrites.com/media/posts/8/Sara-About-Page-Image-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://segwrites.github.io/segwrites/media/posts/8/Seattle-BandW-Slim-Cropped.png</image:loc>
+<image:loc>https://segwrites.com/media/posts/8/Seattle-BandW-Slim-Cropped.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://segwrites.github.io/segwrites/media/posts/8/Line-Break.png</image:loc>
+<image:loc>https://segwrites.com/media/posts/8/Line-Break.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://segwrites.github.io/segwrites/media/posts/8/Bullet-Journal-Image-journal.png</image:loc>
+<image:loc>https://segwrites.com/media/posts/8/Bullet-Journal-Image-journal.png</image:loc>
 <image:title><![CDATA[[ Image of daily summaries recorded in my bullet journal ]]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://segwrites.github.io/segwrites/media/posts/8/Sara-dining-2018-2.png</image:loc>
+<image:loc>https://segwrites.com/media/posts/8/Sara-dining-2018-2.png</image:loc>
 <image:title><![CDATA[[ Image of Sara Eatherton-Goff ]]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://segwrites.github.io/segwrites/media/posts/8/Family-Seattle-Center.png</image:loc>
+<image:loc>https://segwrites.com/media/posts/8/Family-Seattle-Center.png</image:loc>
 <image:title><![CDATA[[ My family at the Seattle Center fountain ]]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://segwrites.github.io/segwrites/media/posts/8/Line-Break-2.png</image:loc>
+<image:loc>https://segwrites.com/media/posts/8/Line-Break-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://segwrites.github.io/segwrites/tools/</loc>
+<loc>https://segwrites.com/tools/</loc>
 <lastmod>2024-09-23T15:42:23-07:00</lastmod>
 </url>
 </urlset>
