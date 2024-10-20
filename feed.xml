@@ -3,7 +3,7 @@
     <title>segwrites</title>
     <link href="https://segwrites.com/feed.xml" rel="self" />
     <link href="https://segwrites.com" />
-    <updated>2024-10-20T15:48:27-07:00</updated>
+    <updated>2024-10-20T15:55:02-07:00</updated>
     <author>
         <name>Sara Eatherton-Goff</name>
     </author>
@@ -149,7 +149,7 @@
 <figure class="post__image post__image--left"><br><img loading="lazy"  src="https://segwrites.com/media/posts/6/Sara-Image.png" alt="[ Image of Sara Eatherton-Goff ]" width="567" height="608" sizes="(min-width: 37.5em) 1600px, 88vw" srcset="https://segwrites.com/media/posts/6/responsive/Sara-Image-xs.png 640w ,https://segwrites.com/media/posts/6/responsive/Sara-Image-sm.png 768w ,https://segwrites.com/media/posts/6/responsive/Sara-Image-md.png 1024w ,https://segwrites.com/media/posts/6/responsive/Sara-Image-lg.png 1366w ,https://segwrites.com/media/posts/6/responsive/Sara-Image-xl.png 1600w"></figure>
 <p><strong>I'm Sara Eatherton-Goff, a former business strategist turned personal essayist and short story writer.</strong> I write about neurodivergence, trauma, healing, identity, motherhood, and managing life's complexities as a late-diagnosed Autistic person with ADHD and chronic illness.</p>
 <p>I live and write in Seattle, Washington with my three kids and wonderful spouse. </p>
-<p class="align-center"><a href="/about" target="_blank" rel="noopener noreferrer" class="btn btn--outlined"><strong>MORE ABOUT MY JOURNEY</strong></a></p>
+<p class="align-center"><a href="https://segwrites.com/about-2/" class="btn btn--outlined"><strong>MORE ABOUT MY JOURNEY</strong></a></p>
             ]]>
         </content>
     </entry>
@@ -200,8 +200,8 @@
 <p> </p>
 <figure class="post__image post__image--left"><br><img loading="lazy"  src="https://segwrites.com/media/posts/4/Sara-Image-2.png" alt="[ Image of Sara Eatherton-Goff ]" width="567" height="608" sizes="(min-width: 37.5em) 1600px, 88vw" srcset="https://segwrites.com/media/posts/4/responsive/Sara-Image-2-xs.png 640w ,https://segwrites.com/media/posts/4/responsive/Sara-Image-2-sm.png 768w ,https://segwrites.com/media/posts/4/responsive/Sara-Image-2-md.png 1024w ,https://segwrites.com/media/posts/4/responsive/Sara-Image-2-lg.png 1366w ,https://segwrites.com/media/posts/4/responsive/Sara-Image-2-xl.png 1600w"></figure>
 <p><strong>I'm Sara Eatherton-Goff, a former business strategist turned personal essayist and short story writer.</strong> I write about neurodivergence, trauma, healing, identity, motherhood, and managing life's complexities as a late-diagnosed Autistic person with ADHD and chronic illness.</p>
-<p>I live and write in Seattle, Washington with my three kids and wonderful spouse. </p>
-<center><a href="/about" target="_blank" rel="noopener noreferrer" class="btn btn--outlined"><strong>MORE ABOUT MY JOURNEY</strong></a></center>
+<p>I live and write in Seattle, Washington with my three kids and wonderful spouse. <br><br></p>
+<center><a href="https://segwrites.com/about-2/" class="btn btn--outlined"><strong>MORE ABOUT MY JOURNEY</strong></a></center>
             ]]>
         </content>
     </entry>
