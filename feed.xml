@@ -19,7 +19,7 @@
         <media:content url="https://segwrites.com/media/posts/15/Bloedel-Reserver-2021.jpg" medium="image" />
 
         <updated>2021-06-15T09:00:00-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://segwrites.com/media/posts/15/Bloedel-Reserver-2021.jpg" alt="[ Photo of two of my kids walking on a path at Bloedel Reserve on Bainbridge Island, Washington ]" />
                     I like the seasons here. Unlike the minimal change in Florida where you go from summers of torrential downpours and suffocating humidity to a point where you're drenched whether it's raining or not — like you step outside your air-conditioned home, right into a heated&hellip;
@@ -69,7 +69,7 @@
             <category term="musing"/>
 
         <updated>2021-06-08T09:00:00-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://segwrites.com/media/posts/14/Handwriting-2021.jpg" alt="[ Photo of my workspace in 2021 ]" />
                     I was ecstatic. I've had this novel idea floating around in my head for nearly three years. I'd contribute a scene to an index card here and there, and just go about life. Then, struck with this lightning-bolt of inspiration, I decided to start writing&hellip;
@@ -136,7 +136,7 @@
             <category term="essay"/>
 
         <updated>2021-04-13T09:00:00-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://segwrites.com/media/posts/13/pexels-iriser-798124.jpg" alt="[ Photo of a woman&#x27;s hand holding a lit cigarette, by Irina Iriser ]" />
                     I. She fidgeted in her chair beside my hospital bed. She would go between reading her romance novel, setting it down, then out for a cigarette. Then pacing the room. Reading. Then out for another smoke. I couldn’t talk. I had a tube down my&hellip;
